@@ -190,7 +190,7 @@ export default function GalleryPage() {
                 style={{
                   backgroundColor: isActive ? '#16a34a' : '#243524',
                   color: isActive ? '#ffffff' : '#86efac',
-                  focusVisibleRingColor: '#4ade80',
+                  // focusVisibleRingColor: '#4ade80',
                 }}
                 aria-pressed={isActive}
               >

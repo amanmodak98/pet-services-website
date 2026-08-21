@@ -197,6 +197,7 @@ export default function Footer() {
           <p className="text-xs" style={{ color: '#4ade80', opacity: 0.5 }}>
             © {new Date().getFullYear()} PawCare. All rights reserved.
           </p>
+          <p className="text-xs" style={{ color: '#4ade80', opacity: 0.5 }}>Designed &amp; Developed by <a href="https://www.infirexa.tech" target="_blank" rel="noopener noreferrer">Infirexa</a></p>
         </div>
       </div>
     </footer>

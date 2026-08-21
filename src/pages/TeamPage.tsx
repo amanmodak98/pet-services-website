@@ -383,7 +383,7 @@ export default function TeamPage() {
                 style={{
                   backgroundColor: deptFilter === dept ? '#16a34a' : '#243524',
                   color: deptFilter === dept ? '#ffffff' : '#86efac',
-                  focusRingColor: '#4ade80',
+                  // focusRingColor: '#4ade80',
                 }}
                 aria-pressed={deptFilter === dept}
               >
